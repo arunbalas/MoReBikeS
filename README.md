@@ -1,6 +1,10 @@
 # REPO IN PROGRESS!!
+The resulyts are as follows
 
-![Logo](/Logo_reframe.jpg)
+![GIth](/Result.jpg)
+
+The refreame
+
 ### Rethinking the Essence, Flexibility and Reusability of Advanced Model Exploitation
 
 # MoReBikeS
@@ -9,6 +13,8 @@ MoReBikeS: Model Reuse with Bike rental Station data Brief Description Adaptive 
 ## Brief of the project
 
 Reuse of learnt knowledge is of critical importance in the majority of knowledge-intensive application areas, particularly because the operating context can be expected to vary from training to deployment. In machine learning this is most commonly studied in relation to variations in class and cost skew in classification. While this is evidently useful in many practical situations, there is a clear and pressing need to generalise the notion of operating context beyond the narrow framework of skew-sensitive classification. This project aims to address the challenge of redesigning the entire data-to-knowledge (D2K) pipeline in order to take account of a significantly generalised notion of operating context.
+
+![Logo1](/Logo_reframe.jpg)
 
 We will develop an innovative and principled approach to knowledge reuse which will allow a range of known machine learning and data mining techniques to deal with common contextual changes, including:
 
