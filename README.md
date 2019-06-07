@@ -1,7 +1,7 @@
 # REPO IN PROGRESS!!
 The resulyts are as follows
 
-![GitHub Logo](/map.jpg)
+![GitHub Logo](/map.JPG)
 
 The refreame
 
@@ -24,7 +24,7 @@ predictions required at a different aggregation level; and
 models to be applied to a different subgroup or distribution.
 The approach is based around the new notion of model reframing, which can be applied to inputs (features), outputs (predictions) or parts of models (patterns), in this way generalising, integrating and broadening the more traditional and diverse notions of model adjustment in machine learning and data mining.
 
-![GitHub Logo](/Result.jpg)
+![GitHub Logo](/Result.JPG)
 The ultimate goal of the project is to provide a much better understanding of the issues involved in the generation and deployment of a model for different contexts, as well as the development of tools which ease the extraction, reuse, exchange and adaptation of knowledge for a wide spectrum of operating contexts. The project will focus on three complex domain areas: geographical applications with spatio-temporal data, smart use of energy (resource production and consumption), and human genomics (genotype-phenotype relation analysis). These three demanding domains will ground the project by means of challenge problems and allow us to experimentally validate our methodologies, tools and algorithms.
 
 ## Context, objectives and expected results
