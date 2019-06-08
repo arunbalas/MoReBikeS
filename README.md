@@ -1,9 +1,10 @@
-# REPO IN PROGRESS!!
-The resulyts are as follows
+# REPO STILL IN PROGRESS!!
+The results are as follows
 
+![GitHub Logo](/Result.JPG)
 ![GitHub Logo](/map.JPG)
 
-The refreame
+The reframe
 
 ### Rethinking the Essence, Flexibility and Reusability of Advanced Model Exploitation
 
