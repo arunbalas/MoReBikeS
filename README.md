@@ -1,4 +1,4 @@
-# REPO STILL IN PROGRESS!!
+# REPO STILL IN PROGRESS!
 The results are as follows
 
 ![GitHub Logo](/Result.JPG)
