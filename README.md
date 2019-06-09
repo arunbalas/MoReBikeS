@@ -1,5 +1,5 @@
 # REPO STILL IN PROGRESS!
-The results are as follows
+The results are as follows...
 
 ![GitHub Logo](/Result.JPG)
 ![GitHub Logo](/map.JPG)
