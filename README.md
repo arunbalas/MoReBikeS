@@ -14,17 +14,6 @@ The reframe
 
 ### Rethinking the Essence, Flexibility and Reusability of Advanced Model Exploitation
 
-TASK
-The task is to predict the number of bikes in the stations 3 hours in advance.
-
-DESCRIPTION OF DATA AND MODELS
-The challenge is to reuse the models learned in 200 training stations (numbered from 1 to 200) for 75 deployment stations (numbered from 201 to 275). The linear models have been trained on the data of the training stations from the period June 2012-September 2014. The deployment data covers all the 275 stations and is about October 2014. The test data is about 75 test stations from the period November 2014-January 2015. Test data for the leaderboard is about 25 test stations from the period November 2014-December 2014. Full test data about 50 other test stations from the period November 2014-January 2015 is given to participants after paper submission. The training and deployment datasets cover all hours of the respective periods, however some timepoints have some missing values, also in the target variable. 
-
-
-
-
-## Brief of the project
-
 Reuse of learnt knowledge is of critical importance in the majority of knowledge-intensive application areas, particularly because the operating context can be expected to vary from training to deployment. In machine learning this is most commonly studied in relation to variations in class and cost skew in classification. While this is evidently useful in many practical situations, there is a clear and pressing need to generalise the notion of operating context beyond the narrow framework of skew-sensitive classification. This project aims to address the challenge of redesigning the entire data-to-knowledge (D2K) pipeline in order to take account of a significantly generalised notion of operating context.
 
 ![Logo](/Logo_reframe.jpg)
@@ -37,7 +26,6 @@ predictions required at a different aggregation level; and
 models to be applied to a different subgroup or distribution.
 The approach is based around the new notion of model reframing, which can be applied to inputs (features), outputs (predictions) or parts of models (patterns), in this way generalising, integrating and broadening the more traditional and diverse notions of model adjustment in machine learning and data mining.
 
-![GitHub Logo](/Result.JPG)
 The ultimate goal of the project is to provide a much better understanding of the issues involved in the generation and deployment of a model for different contexts, as well as the development of tools which ease the extraction, reuse, exchange and adaptation of knowledge for a wide spectrum of operating contexts. The project will focus on three complex domain areas: geographical applications with spatio-temporal data, smart use of energy (resource production and consumption), and human genomics (genotype-phenotype relation analysis). These three demanding domains will ground the project by means of challenge problems and allow us to experimentally validate our methodologies, tools and algorithms.
 
 ## Context, objectives and expected results
