@@ -10,9 +10,7 @@ The results are as follows...
 ![GitHub Logo](/Result.JPG)
 
 
-The reframe
-
-### Rethinking the Essence, Flexibility and Reusability of Advanced Model Exploitation
+## Rethinking the Essence, Flexibility and Reusability of Advanced Model Exploitation
 
 Reuse of learnt knowledge is of critical importance in the majority of knowledge-intensive application areas, particularly because the operating context can be expected to vary from training to deployment. In machine learning this is most commonly studied in relation to variations in class and cost skew in classification. While this is evidently useful in many practical situations, there is a clear and pressing need to generalise the notion of operating context beyond the narrow framework of skew-sensitive classification. This project aims to address the challenge of redesigning the entire data-to-knowledge (D2K) pipeline in order to take account of a significantly generalised notion of operating context.
 
@@ -60,8 +58,9 @@ As we have seen, contexts are not only given by changes of costs or distribution
 The comprehensive way in which context change is embraced and exploited by model reframing is the main innovation of the REFRAME project and will naturally develop and bring together the most suitable of the research strands reviewed in the previous section. The idea of generalising the context and not only the data is the key to solving some of the most challenging problems the discipline has been facing in recent years. Since specific models are difficult to reuse and adapt to other contexts, the life of machine learning models has often been very short. By constructing more versatile models in the training context we will be able to adapt them through reframing to different (current and future) deployment contexts (Figure 1).
 
 ![GitHub Logo](/Reframe.jpg)
-Figure 1. Operating contexts, models and reframing. The model on the left is intentionally more versatile than strictly necessary for context A, in order to ease its reframing to other contexts, such as context B.
-These new and generalised concepts require a re-appraisal of the whole process from data to knowledge and deployment. The project will therefore address the following five key areas.
+Figure 1. Operating contexts, models and reframing. 
+
+The model on the left is intentionally more versatile than strictly necessary for context A, in order to ease its reframing to other contexts, such as context B. These new and generalised concepts require a re-appraisal of the whole process from data to knowledge and deployment. The project will therefore address the following five key areas.
 
 ### A1. Operating contexts
 We will develop a proper formalisation of operating contexts, in terms of how they can be quantified and represented, how we can define sets (and probability distributions) over operating contexts, and analysing their properties. Through three application domains (see below) we will recognise a variety of operating contexts ensuring that our notion of operating context is most general.
